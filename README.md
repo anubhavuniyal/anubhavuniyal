@@ -8,9 +8,9 @@
   <p><b>Connect with me through:</b></p>
   
 [![Twitter Badge](https://img.shields.io/badge/-Equiknox-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the_pun_ditt)](https://twitter.com/the_pun_ditt)
-[![Linkedin Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardeep-singh-/)](https://www.linkedin.com/in/hardeep-singh-/)
-[![Instagram Badge](https://img.shields.io/badge/-Mr.Holmes-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/__MrHolmes)](https://www.instagram.com/__MrHolmes)
-[![Gmail Badge](https://img.shields.io/badge/-hp95565@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hp95565@gmail.com)](mailto:hp95565@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-Equiknox-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-uniyal-a06594136/)](https://www.linkedin.com/in/anubhav-uniyal-a06594136/)
+[![Instagram Badge](https://img.shields.io/badge/-Equiknox-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/the_pun_ditt/)](https://www.instagram.com/the_pun_ditt/)
+[![ProtonMail Badge](https://img.shields.io/badge/-Equiknox-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:anubhavuniyal0917@protonmail.com)](mailto:anubhavuniyal0917@protonmail.com)  
 <hr>
 
 <h1>Technologies</h1>
