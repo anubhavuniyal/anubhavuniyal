@@ -1,13 +1,13 @@
-<h1 align="center" height='30'>Hi there, I'm <a href="https://holmes-py.github.io/" target="_blank">Hardeep Singh</a> 
+<h1 align="center" height='30'>Hi there, I'm Anubhav Uniyal</a> 
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200' ></h1> 
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>Mr.Holmes</b>, Currently I am a Content Creator at TryHackMe and student pursuing my Bachelor's Of Computer Applications from B.J.S. College. I am also a CTF player, a Cyber Security Enthusiast and a (in the works) penetration tester. I am always open to collaborate on projects and innovative open-source based ideas. P.S. I am actively looking for Cyber Security Internships.</p>
+  <p>a.k.a <b>Equiknox</b>, Currently I am a student pursuing my Bachelor's Of Technology in Computer Science from DIT University. I am also a CTF player, a Cyber Security Enthusiast and a (in the works) penetration tester. I am always open to collaborate on projects and innovative open-source based ideas. P.S. I am actively looking for Cyber Security Internships.</p>
   
   <p><b>Connect with me through:</b></p>
   
-[![Twitter Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/__MrHolmes)](https://twitter.com/__MrHolmes)
+[![Twitter Badge](https://img.shields.io/badge/-Equiknox-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the_pun_ditt)](https://twitter.com/the_pun_ditt)
 [![Linkedin Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardeep-singh-/)](https://www.linkedin.com/in/hardeep-singh-/)
 [![Instagram Badge](https://img.shields.io/badge/-Mr.Holmes-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/__MrHolmes)](https://www.instagram.com/__MrHolmes)
 [![Gmail Badge](https://img.shields.io/badge/-hp95565@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hp95565@gmail.com)](mailto:hp95565@gmail.com)  
