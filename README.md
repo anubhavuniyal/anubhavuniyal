@@ -31,6 +31,5 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=equiknoxx&repo=Cripti&theme=vue-dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedonInc&repo=website&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=holmes-py&repo=subdomain-check&theme=vue-dark)
 
 </div>
