@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**equiknoxx/equiknoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center" height='30'>Hi there, I'm <a href="https://holmes-py.github.io/" target="_blank">Hardeep Singh</a> 
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200' ></h1> 
 <div align="center">
