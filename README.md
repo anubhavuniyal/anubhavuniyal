@@ -3,7 +3,7 @@
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>Equiknox</b>, Currently I am a student pursuing my Bachelor's Of Technology in Computer Science from DIT University. I am also a CTF player, a Cyber Security Enthusiast and a (in the works) penetration tester. I am always open to collaborate on projects and innovative open-source based ideas. P.S. I am actively looking for Cyber Security Internships.</p>
+  <p>a.k.a <b>Equiknox</b>, Currently I am a student pursuing my Bachelor's Of Technology in Computer Science from DIT University. I am also a CTF player, a Cyber Security Enthusiast and a (in the works) penetration tester. I am always open to collaborate on projects and innovative open-source based ideas.</p>
   
   <p><b>Connect with me through:</b></p>
   
