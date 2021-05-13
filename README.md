@@ -3,14 +3,14 @@
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>Equiknox</b>, Currently I am a student pursuing my Bachelor's Of Technology in Computer Science from DIT University. I am also a CTF player, a Cyber Security Enthusiast and a (in the works) penetration tester. I am always open to collaborate on projects and innovative open-source based ideas.</p>
+  Currently, I am a student pursuing my Bachelor's Of Technology in Computer Science from DIT University. I am also a CTF player, a Cyber Security Enthusiast and a (in the works) penetration tester. I am always open to collaborate on projects and innovative open-source based ideas.</p>
   
   <p><b>Connect with me through:</b></p>
   
-[![Twitter Badge](https://img.shields.io/badge/-Equiknox-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the_pun_ditt)](https://twitter.com/the_pun_ditt)
-[![Linkedin Badge](https://img.shields.io/badge/-Equiknox-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-uniyal-a06594136/)](https://www.linkedin.com/in/anubhav-uniyal-a06594136/)
-[![Instagram Badge](https://img.shields.io/badge/-Equiknox-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/the_pun_ditt/)](https://www.instagram.com/the_pun_ditt/)
-[![ProtonMail Badge](https://img.shields.io/badge/-Equiknox-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=https://mail.protonmail.com/compose?To=anubhavuniyal0917@protonmail.com)](https://mail.protonmail.com/compose?To=anubhavuniyal0917@protonmail.com)  
+[![Twitter Badge](https://img.shields.io/badge/-Anubhav-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the_pun_ditt)](https://twitter.com/the_pun_ditt)
+[![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-uniyal-a06594136/)](https://www.linkedin.com/in/anubhav-uniyal-a06594136/)
+[![Instagram Badge](https://img.shields.io/badge/-Anubhav-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/the_pun_ditt/)](https://www.instagram.com/the_pun_ditt/)
+[![ProtonMail Badge](https://img.shields.io/badge/-Anubhav-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=https://mail.protonmail.com/compose?To=anubhavuniyal0917@protonmail.com)](https://mail.protonmail.com/compose?To=anubhavuniyal0917@protonmail.com)  
 <hr>
 
 <h1>Technologies</h1>
@@ -24,13 +24,13 @@
 <br>
 <h1>My GitHub Stats</h1>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=equiknoxx&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=equiknoxx&count_private=true&theme=vue-dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=anubhavuniyal&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavuniyal&count_private=true&theme=vue-dark&layout=compact)
 <br>
 <h1>Featured Projects</h1>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=equiknoxx&repo=Cripti&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anubhavuniyal&repo=Cripti&theme=vue-dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedonInc&repo=website&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=equiknoxx&repo=blockThread&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anubhavuniyal&repo=blockThread&theme=vue-dark)
 
 </div>
