@@ -23,7 +23,7 @@
 ----
 
 <a href="https://www.linkedin.com/in/anubhav-uniyal-a06594136/">
-  <img align="left" alt="Anubhav's LinkedIn" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/linkedin.svg" />
+  <img align="left" alt="Anubhav's LinkedIn" width="20px" src="https://cdn.simpleicons.org/linkedin/white" />
 </a>
 <a href="https://www.instagram.com/the_profound_idiot/">
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/instagram.svg" />
