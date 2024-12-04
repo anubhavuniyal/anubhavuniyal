@@ -26,8 +26,8 @@
   <img align="left" alt="Anubhav's LinkedIn" width="20px" src="https://cdn.simpleicons.org/linkedin/white" />
 </a>
 <a href="https://www.instagram.com/the_profound_idiot/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/instagram.svg" />
+  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.simpleicons.org/instagram/white" />
 </a>
 <a href="https://www.reddit.com/user/Anubhav8476/">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/reddit.svg" />
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.simpleicons.org/reddit/white" />
 </a>
