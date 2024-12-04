@@ -1,35 +1,33 @@
-<h1 align="center" height='30'>Hi there, I'm Anubhav Uniyal</a> 
-<img src='https://media.giphy.com/media/3WYGzcUftn8zK/source.gif' width='200' ></h1> 
-<div align="center">
-  </div>
-  <div align="center">
-  Currently, I am a student pursuing my Bachelor's Of Technology in Computer Science from DIT University. I am also a CTF player, a Cyber Security Enthusiast and a (in the works) penetration tester. I am always open to collaborate on projects and innovative open-source based ideas.</p>
-  
-  <p><b>Connect with me through:</b></p>
-  
-[![Twitter Badge](https://img.shields.io/badge/-Anubhav-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the_pun_ditt)](https://twitter.com/the_pun_ditt)
-[![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-uniyal-a06594136/)](https://www.linkedin.com/in/anubhav-uniyal-a06594136/)
-[![Instagram Badge](https://img.shields.io/badge/-Anubhav-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/the_pun_ditt/)](https://www.instagram.com/the_pun_ditt/)
-[![ProtonMail Badge](https://img.shields.io/badge/-Anubhav-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=https://mail.protonmail.com/compose?To=anubhavuniyal0917@protonmail.com)](https://mail.protonmail.com/compose?To=anubhavuniyal0917@protonmail.com)  
-<hr>
+### Hi, I'm Anubhav! &nbsp;&nbsp;<sup>👾 &#12299;I love to automate ALL things. I love to play chess and listen to music. Occasionally I play video games, and rice my linux. </sup>
 
-<h1>Technologies</h1>
+----
 
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![nix](https://img.shields.io/static/v1?logo=nix&label=&message=nix&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
+![acko](https://img.shields.io/static/v1?logo=acko&label=&message=acko&color=111&logoColor=FF0000&style=flat-square)
 
-<br>
-<h1>My Blog<h1>
-<h3><a href="https://anubhavuniyal.medium.com/" target="_blank"> Link to my Medium profile</a></h3>
-<br>
-<h1>My GitHub Stats</h1>
+**Senior Platform Engineer** &#12299;_working in IaC, Kubernetes, Cloud and Automation_
+<br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anubhavuniyal&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavuniyal&count_private=true&theme=vue-dark&layout=compact)
-<br>
-<h1>Featured Projects</h1>
+----
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anubhavuniyal&repo=Cripti&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedonInc&repo=website&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anubhavuniyal&repo=blockThread&theme=vue-dark)
-
-</div>
+<a href="https://www.linkedin.com/in/anubhav-uniyal-a06594136/">
+  <img align="left" alt="Anubhav's LinkedIn" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/the_profound_idiot/">
+  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/Anubhav8476/">
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/reddit.svg" />
+</a>
