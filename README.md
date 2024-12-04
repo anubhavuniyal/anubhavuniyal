@@ -1,4 +1,4 @@
-### Hi, I'm Anubhav! &nbsp;&nbsp;<sup>👾 &#12299;I love to automate ALL things. I love to play chess and listen to music. Occasionally I play video games, and rice my linux. </sup>
+### Hi, I'm Anubhav! &nbsp;&nbsp;<sup>🚀 &#12299;I love to automate ALL things. I love to play chess and listen to music. Occasionally I play video games & rice linux. </sup>
 
 ----
 
