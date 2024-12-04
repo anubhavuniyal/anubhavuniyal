@@ -23,11 +23,11 @@
 ----
 
 <a href="https://www.linkedin.com/in/anubhav-uniyal-a06594136/">
-  <img align="center" alt="Anubhav's LinkedIn" width="20px" src="https://cdn.simpleicons.org/linkedin/white" />
+  <img alt="Anubhav's LinkedIn" width="20px" src="https://cdn.simpleicons.org/linkedin/white" />
 </a>
 <a href="https://www.instagram.com/the_profound_idiot/">
-  <img align="center" alt="Stefanie's Instagram" width="20px" src="https://cdn.simpleicons.org/instagram/white" />
+  <img alt="Anubhav's Instagram" width="20px" src="https://cdn.simpleicons.org/instagram/white" />
 </a>
 <a href="https://www.reddit.com/user/Anubhav8476/">
-  <img align="center" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.simpleicons.org/reddit/white" />
+  <img alt="Anubhav's Reddit" width="20px" src="https://cdn.simpleicons.org/reddit/white" />
 </a>
