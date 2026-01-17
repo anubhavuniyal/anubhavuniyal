@@ -17,7 +17,7 @@
 ![nix](https://img.shields.io/static/v1?logo=nix&label=&message=nix&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![acko](https://img.shields.io/static/v1?logo=acko&label=&message=acko&color=111&logoColor=FF0000&style=flat-square)
+![CoinDCX](https://img.shields.io/static/v1?logo=CoinDCX&label=&message=acko&color=111&logoColor=FF0000&style=flat-square)
 
 **Senior Platform Engineer** &#12299;_working in IaC, Kubernetes, Cloud and Automation_
 <br/>
